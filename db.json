@@ -1,0 +1,157 @@
+{
+    "products": [
+        {
+        "id": 1,
+        "name": "RenderQuiz",
+        "link" : "https://renderquiz.com/",
+        "text": "An all-in-one assessment software that assists you in creating quizzes,tests, and exams in various formats with ease.",
+        "featuresId" : 1,
+        "freeId" : 1,
+        "enterpriseId" : 1,
+        "premiumId": 1
+        },
+        {
+        "id": 2,
+        "name": "Limsaa",
+        "link" : "https://limsaa.com/",
+        "text": "Learning Management system Aggregator (Limssa) is a platform for online education, facilitating teaching and learning for schools, staff assessment, gap analysis, training, and management meetings. It is a customizable platform that offers rich features, including; online tests & exams, performance reporting, course registration, blended learning, etc.",
+        "featuresId" : 2,
+        "freeId" : 2,
+        "enterpriseId" : 2,
+        "premiumId": 2
+        },   
+        {
+        "id": 2,
+        "name": "NES",
+        "link" : "https://www.nes.org.ng/",
+        "text": "The Nigerian Environmental Society (NES) is a professional, non-profit, non-governmental body which is committed to advocacy and actions towards environmental protection, sustainable environmental development and promotion of environmental professionalism within Nigeria and in the global arena.",
+        "featuresId" : 3,
+        "freeId" : 3,
+        "enterpriseId" : 3,
+        "premiumId": 3    
+        }
+    ],
+    "features":[
+        {
+        "id": 1,
+        "featureA": "Friendly User Interface",
+        "featureAText": "With our easy-to-use quiz maker platform, you can quickly create engaging tests that are customized to your needs.",
+        "featureB":"Custom Grading System",
+        "featureBText": "You can design your own grading systems as you see fit. Quizzes will be graded based on your defined parameters.",
+        "featureC":"Instant Certificate Generation",
+        "featureCText":"Create accredited online examinations that anyone can take from anywhere and receive a certificate upon completion.",
+        "featureD":"Question Bank",
+        "featureDText": "Using our dynamic upload system, you can either manually add questions or bulk upload them once."
+        },
+        {
+        "id": 2,
+        "featureA": "Manage Roles",
+        "featureAText": "(Admin, Instructors, Students)",
+        "featureB":"Manage Courses",
+        "featureBText": "CRUD Operation",
+        "featureC":"Manage Users/Students ",
+        "featureCText":"CRUD Operation ",
+        "featureD":"Manage Institution Model ",
+        "featureDText": " Find aute irure dolor in reprehenderit in volatekal"
+        },
+        {
+        "id": 3,
+        "featureA": "Foster Professionalism",
+        "featureAText": "To foster and promote the profession of environmental science and engineering in theory and practice and also enhance the usefulness of the profession in the public.",
+        "featureB":"Outreach",
+        "featureBText": "To deliver and hold lectures, exhibitions, public meetings, classes, examinations and conferences calculated directly or indirectly to benefit or advance the works, aims and objectives of the society.",
+        "featureC":"Public Partnerships",
+        "featureCText":"To promote public understanding and encourage a sound national policy in matters relating to environmental quality control field.",
+        "featureD":"Promote Wellbeing",
+        "featureDText": "To promote and foster the well being and interest of environmental scientists and engineers and other related professionals."
+        }
+    ],
+    "free":[
+        {
+        "id": 1,
+        "name": "Free",
+        "price": "$0",
+        "texta": "Maximum of 1 Quiz Set",
+        "textb": "Maximum of 19 Quiz Questions",
+        "textc": "Maximum of 19 Quiz Takers",
+        "textd": "Email Support"
+
+        },
+        {
+        "id": 2,
+        "name": "Free",
+        "price": "$0",
+        "texta": "Up to 3 projects for each member",
+        "textb": "2 team members allowed",
+        "textc": "Maximum of 2 memberss",
+        "textd": "Email Support"
+        },
+        {
+        "id": 3,
+        "name": "Free",
+        "price": "$0",
+        "texta": "Up to 3 projects for each member",
+        "textb": "2 team members allowed",
+        "textc": "Maximum of 2 memberss",
+        "textd": "Email Support"
+        }
+    ],
+    "enterprise":[
+        {
+        "id": 1,
+        "name": "Standard",
+        "price": "$30",
+        "texta": "Maximum of 1 Quiz Set",
+        "textb": "Maximum of 19 Quiz Questions",
+        "textc": "Maximum of 19 Quiz Takers",
+        "textd": "Email Support"
+        },
+        {
+        "id": 2,
+        "name": "Standard",
+        "price": "$20",
+        "texta": "Maximum of 1 Quiz Set",
+        "textb": "Maximum of 19 Quiz Questions",
+        "textc": "Maximum of 19 Quiz Takers",
+        "textd": "Email Support"
+        },    
+        {
+        "id": 3,
+        "name": "Standard",
+        "price": "$30",
+        "texta": "Maximum of 1 Quiz Set",
+        "textb": "Maximum of 19 Quiz Questions",
+        "textc": "Maximum of 19 Quiz Takers",
+        "textd": "Email Support"
+        }  
+    ],
+    "premium":[
+        {
+        "id": 1,
+        "name": "Premium",
+        "price": "$50",
+        "texta": "Maximum of 1 Quiz Set",
+        "textb": "Maximum of 19 Quiz Questions",
+        "textc": "Maximum of 19 Quiz Takers",
+        "textd": "Email Support"
+        },
+        {
+        "id": 2,
+        "name": "Premium",
+        "price": "$40",
+        "texta": "Maximum of 1 Quiz Set",
+        "textb": "Maximum of 19 Quiz Questions",
+        "textc": "Maximum of 19 Quiz Takers",
+        "textd": "Email Support"
+        },    
+        {
+        "id": 3,
+        "name": "Premium",
+        "price": "$45",
+        "texta": "Maximum of 1 Quiz Set",
+        "textb": "Maximum of 19 Quiz Questions",
+        "textc": "Maximum of 19 Quiz Takers",
+        "textd": "Email Support"
+        }  
+    ]
+    } 
