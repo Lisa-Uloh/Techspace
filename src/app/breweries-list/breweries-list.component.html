@@ -18,14 +18,15 @@
             class="list-group-item">
 							<div class="card-deck deck-active">
 								<div class="card">
-								  <img class="card-img" src="https://images.pexels.com/photos/1660995/pexels-photo-1660995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="Card image">
+								  <img class="card-img" src="../../assets/hex.jpg" alt="Card image">
 								  <div class="card-img-overlay">
-									 <h5 class="card-title">{{post.name}}</h5>
-									 <p class="card-text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, maiores.</p>
+									 <h1 class="card-title">{{post.name}}</h1>
+									 <a href="#" [routerLink]="['/products/', post.id, 'home']" class="btn btn-info">View</a>
+									 <!-- <p class="card-text">{{post.text}}</p>
 									 <p class="card-text">
 										 Photo taken by
 										 <a href="https://www.pexels.com/nl-nl/foto/architectuur-ijsland-toren-vuurtoren-1660995/">Tomáš Malík</a>
-									</p>
+									</p> -->
 								  </div>
 								</div>
 								

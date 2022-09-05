@@ -23,11 +23,11 @@
             <div class="row">
                 <div class="col-sm-6">
                     <p class="kicker">A trusted Digital Agency</p>
-                    <h1 class="jumbo">Building Digital <br>Products & Brands.</h1>
+                    <h1 class="jumbo">{{product.title}}Building Digital <br>Products & Brands.</h1>
 
-                    <p>We build effective strategies to help you reach customers and prospects across the entire web. This is a free and open source landing page template.</p>
+                    <p>{{product.text}</p>
 
-                    <a href="https://github.com/jeffbredenkamp/remedy-template/archive/refs/heads/main.zip" class="btn btn-primary mr-sm"><i class="fa-solid fa-download"></i> &nbsp;Download</a> <a href="https://github.com/jeffbredenkamp/remedy-template" class="btn btn-secondary"><i class="fa-brands fa-github"></i> &nbsp;View on GitHub</a>
+                    <a [href]="product.link" class="btn btn-primary mr-sm"><i class="fa-solid fa-download"></i> &nbsp;Download</a> <a href="https://github.com/jeffbredenkamp/remedy-template" class="btn btn-secondary"><i class="fa-brands fa-github"></i> &nbsp;View on GitHub</a>
                 </div>
 
                 <div class="col-sm-6">
