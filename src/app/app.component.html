@@ -579,10 +579,47 @@ p,h1,h2,h3,h4,h5,h6 {
 				<p class="text">Huddle re-imagines the way we build communities. You have a voice, but so does your audience. Create connections with your users as you engage in genuine discussion.</p>
 
 				<!-- <button class="btn text">Register</button> -->
-      <a class="btn btn-primary text" routerLink="list"> List </a>
+      <!-- <a class="btn btn-primary text" routerLink="list"> List </a> -->
 			</div>
 		</div>
-
+    <div class="card-sliders ">
+      <div class="container ">
+        <div class="row align-items-center">
+          <div class="col-md">
+            <h3>Our Products</h3>
+            <!-- <p class="lead">Using Bootstrap, Animate.css and jQuery</p> -->
+            
+            <div class="row mt-5">
+              <div class="col-lg-4" *ngFor="let post of product">
+                <div class="card-decks" 
+                class="list-group-item">
+                  <div class="card-deck deck-active">
+                    <div class="card">
+                      <img class="card-img" src="../../assets/hex.jpg" alt="Card image">
+                      <div class="card-img-overlay">
+                       <h1 class="card-title">{{post.name}}</h1>
+                       <a href="#" [routerLink]="['products/', post.id, 'home']" class="btn btn-info">View</a>
+                       <!-- <p class="card-text">{{post.text}}</p>
+                       <p class="card-text">
+                         Photo taken by
+                         <a href="https://www.pexels.com/nl-nl/foto/architectuur-ijsland-toren-vuurtoren-1660995/">Tomáš Malík</a>
+                      </p> -->
+                      </div>
+                    </div>
+                    
+                  </div>
+                  
+                </div>
+              </div>
+    
+            </div>
+          
+            
+          </div>
+        </div>
+        
+      </div>
+    </div>
 		<div class="socials">
 			<!-- Social Links -->
 			<button class="social-btn facebook"></button>
@@ -599,4 +636,4 @@ p,h1,h2,h3,h4,h5,h6 {
 <!-- * * * * * * * * * * End of Placeholder * * * * * * * * * * * -->
 <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
 
-<router-outlet></router-outlet>
+<!-- <router-outlet></router-outlet> -->

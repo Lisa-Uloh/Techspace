@@ -4,18 +4,19 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HttpClientModule } from '@angular/common/http';
-import { BreweriesListComponent } from './breweries-list/breweries-list.component';
+import { ProductsRoutingModule } from './products/products-routing.module';
 
 
 
 @NgModule({
   declarations: [
-    AppComponent,
-    BreweriesListComponent
+    AppComponent
+  
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
+    ProductsRoutingModule,
     HttpClientModule
   ],
   providers: [],

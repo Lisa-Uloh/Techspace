@@ -19,7 +19,7 @@ export class HomeComponent implements OnInit {
     private router: Router) { }
 
    ngOnInit(): void {
-    this.id = this.route.snapshot.params['productid'];
+    this.id = this.route.snapshot.params['id'];
         
     this.products.find(this.id).subscribe(data =>{
       this.product = data;

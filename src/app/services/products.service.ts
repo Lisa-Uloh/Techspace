@@ -7,7 +7,7 @@ import { Product } from '../model/product';
   providedIn: 'root'
 })
 export class ProductsService {
-  private apiURL = 'http://localhost:3000/products/';
+  private apiURL = 'http://localhost:3000/products';
   httpOptions = {
     headers: new HttpHeaders({
       'Content-Type': 'application/json'
@@ -28,9 +28,17 @@ export class ProductsService {
     )
   }
 
-  find(id:number): Observable<Product> {
-      const url = `${this.apiURL}/${id}`;
-    return this.httpClient.get<Product>(url)
+  // find(id:number): Observable<Product> {
+  //     const url = `${this.apiURL}/${id}`;
+  //   return this.httpClient.get<Product>(url)
+  //   .pipe(
+  //     catchError(this.errorHandler)
+  //   )
+  // }
+  find(id:number): Observable<any> {
+  
+    return this.httpClient.get(this.apiURL + id)
+  
     .pipe(
       catchError(this.errorHandler)
     )
