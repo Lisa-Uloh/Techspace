@@ -1,7 +1,7 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
-import { ProductsRoutingModule } from './products-routing.module';
+import { TechproductsRoutingModule } from './techproducts-routing.module';
 import { HomeComponent } from './home/home.component';
 import { DetailsComponent } from './details/details.component';
 
@@ -9,11 +9,11 @@ import { DetailsComponent } from './details/details.component';
 @NgModule({
   declarations: [
     HomeComponent,
-    DetailsComponent
+    // DetailsComponent
   ],
   imports: [
     CommonModule,
-    ProductsRoutingModule
+    TechproductsRoutingModule
   ]
 })
-export class ProductsModule { }
+export class TechproductsModule { }

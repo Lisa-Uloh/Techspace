@@ -5,6 +5,7 @@
         "name": "RenderQuiz",
         "link" : "https://renderquiz.com/",
         "text": "An all-in-one assessment software that assists you in creating quizzes,tests, and exams in various formats with ease.",
+        "about": "This is a secure portal designed to allow Individuals and Corporations to conduct assessments of their staff or students by creating and managing quizzes digitally. It is a web-based application with subscriptions to meet various classes of clients. With a free subscription class available for trials. Quizzes are vital performance evaluation tool through which teachers or trainers measure its candidates or trainees performance or competency. Multiple choice questions is one of the question types that are generally used in almost all test. If an assessor wants to make quick valuation on the respondents, then a test with multiple choice is the solution.",
         "featuresId" : 1,
         "freeId" : 1,
         "enterpriseId" : 1,
@@ -14,17 +15,20 @@
         "id": 2,
         "name": "Limsaa",
         "link" : "https://limsaa.com/",
-        "text": "Learning Management system Aggregator (Limssa) is a platform for online education, facilitating teaching and learning for schools, staff assessment, gap analysis, training, and management meetings. It is a customizable platform that offers rich features, including; online tests & exams, performance reporting, course registration, blended learning, etc.",
+        "text":"offers the framework to assess training and learning goals for individuals and organization",
+        "about": "Learning Management system Aggregator (Limssa) is a platform for online education, facilitating teaching and learning for schools, staff assessment, gap analysis, training, and management meetings. It is a customizable platform that offers rich features, including; online tests & exams, performance reporting, course registration, blended learning, etc.",
         "featuresId" : 2,
         "freeId" : 2,
         "enterpriseId" : 2,
         "premiumId": 2
         },   
         {
-        "id": 2,
+        "id": 3,
         "name": "NES",
         "link" : "https://www.nes.org.ng/",
-        "text": "The Nigerian Environmental Society (NES) is a professional, non-profit, non-governmental body which is committed to advocacy and actions towards environmental protection, sustainable environmental development and promotion of environmental professionalism within Nigeria and in the global arena.",
+        "text":"Protection, preservation, conservation and the promotion in theory and practice the principles of environmental practice.",
+        "about": "The Nigerian Environmental Society (NES) is a professional, non-profit, non-governmental body which is committed to advocacy and actions towards environmental protection, sustainable environmental development and promotion of environmental professionalism within Nigeria and in the global arena. It is recognized as the premier environmental society and watchdog of the environment in Nigeria. The society was first inaugurated on the 17th October 1985 in Lagos and has remained the largest environmental NGO in Nigeria and has grown to twenty four branches officially launched in Nigeria. The society plays an active role in local and international environmental programs",
+        
         "featuresId" : 3,
         "freeId" : 3,
         "enterpriseId" : 3,
@@ -70,7 +74,7 @@
         {
         "id": 1,
         "name": "Free",
-        "price": "$0",
+        "price": "£0",
         "texta": "Maximum of 1 Quiz Set",
         "textb": "Maximum of 19 Quiz Questions",
         "textc": "Maximum of 19 Quiz Takers",
@@ -80,7 +84,7 @@
         {
         "id": 2,
         "name": "Free",
-        "price": "$0",
+        "price": "£0",
         "texta": "Up to 3 projects for each member",
         "textb": "2 team members allowed",
         "textc": "Maximum of 2 memberss",
@@ -89,7 +93,7 @@
         {
         "id": 3,
         "name": "Free",
-        "price": "$0",
+        "price": "£0",
         "texta": "Up to 3 projects for each member",
         "textb": "2 team members allowed",
         "textc": "Maximum of 2 memberss",
@@ -100,16 +104,16 @@
         {
         "id": 1,
         "name": "Standard",
-        "price": "$30",
-        "texta": "Maximum of 1 Quiz Set",
-        "textb": "Maximum of 19 Quiz Questions",
-        "textc": "Maximum of 19 Quiz Takers",
-        "textd": "Email Support"
+        "price": "£70",
+        "texta": "Unlimited Question Set",
+        "textb": "200 Quiz Questions",
+        "textc": "200 of 19 Quiz Takers",
+        "textd": "Access to Bult Questions"
         },
         {
         "id": 2,
         "name": "Standard",
-        "price": "$20",
+        "price": "£70",
         "texta": "Maximum of 1 Quiz Set",
         "textb": "Maximum of 19 Quiz Questions",
         "textc": "Maximum of 19 Quiz Takers",
@@ -118,7 +122,7 @@
         {
         "id": 3,
         "name": "Standard",
-        "price": "$30",
+        "price": "£70",
         "texta": "Maximum of 1 Quiz Set",
         "textb": "Maximum of 19 Quiz Questions",
         "textc": "Maximum of 19 Quiz Takers",
@@ -129,16 +133,16 @@
         {
         "id": 1,
         "name": "Premium",
-        "price": "$50",
-        "texta": "Maximum of 1 Quiz Set",
-        "textb": "Maximum of 19 Quiz Questions",
-        "textc": "Maximum of 19 Quiz Takers",
-        "textd": "Email Support"
+        "price": "£150",
+        "texta": "Unlimited Question Set",
+        "textb": "Unlimited Quiz Questions",
+        "textc": "Unlimited Quiz Takers",
+        "textd": "Access to Admin Bulk Questions"
         },
         {
         "id": 2,
         "name": "Premium",
-        "price": "$40",
+        "price": "£140",
         "texta": "Maximum of 1 Quiz Set",
         "textb": "Maximum of 19 Quiz Questions",
         "textc": "Maximum of 19 Quiz Takers",
@@ -147,7 +151,7 @@
         {
         "id": 3,
         "name": "Premium",
-        "price": "$45",
+        "price": "£145",
         "texta": "Maximum of 1 Quiz Set",
         "textb": "Maximum of 19 Quiz Questions",
         "textc": "Maximum of 19 Quiz Takers",

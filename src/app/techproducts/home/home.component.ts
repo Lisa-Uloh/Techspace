@@ -1,9 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { ActivatedRoute, Router } from '@angular/router';
-import { Product } from 'src/app/model/product';
 import { ProductsService } from 'src/app/services/products.service';
-
-
 
 @Component({
   selector: 'app-home',
@@ -11,6 +7,7 @@ import { ProductsService } from 'src/app/services/products.service';
   styleUrls: ['./home.component.css']
 })
 export class HomeComponent implements OnInit {
+
   title = 'Techspace';
 
   product:any;
@@ -25,4 +22,5 @@ export class HomeComponent implements OnInit {
     
   }
  
+
 }

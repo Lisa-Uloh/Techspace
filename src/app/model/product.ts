@@ -5,8 +5,9 @@ import { Premium } from "./premium";
 
 export interface Product {
     id: number;
-    title: string;
+    name: string;
     text: string;
+    about:string;
     link: string;
     featuresId: Features;
     freeId: Free;
