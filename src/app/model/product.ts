@@ -9,6 +9,9 @@ export interface Product {
     text: string;
     about:string;
     link: string;
+    logo: string;
+    galery: string;
+    image:any;
     featuresId: Features;
     freeId: Free;
     enterpriseId:Enterprise ;

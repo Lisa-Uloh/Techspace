@@ -4,35 +4,122 @@
         "id": 1,
         "name": "RenderQuiz",
         "link" : "https://renderquiz.com/",
+        "logo" : "https://renderquiz.com/storage/2021/10/RenderQuiz_payoff.svg",
+        "image" :"https://i.ibb.co/PWsC5vn/FVNJZEl-WYAAg-Ic-T.jpg",
         "text": "An all-in-one assessment software that assists you in creating quizzes,tests, and exams in various formats with ease.",
         "about": "This is a secure portal designed to allow Individuals and Corporations to conduct assessments of their staff or students by creating and managing quizzes digitally. It is a web-based application with subscriptions to meet various classes of clients. With a free subscription class available for trials. Quizzes are vital performance evaluation tool through which teachers or trainers measure its candidates or trainees performance or competency. Multiple choice questions is one of the question types that are generally used in almost all test. If an assessor wants to make quick valuation on the respondents, then a test with multiple choice is the solution.",
         "featuresId" : 1,
         "freeId" : 1,
         "enterpriseId" : 1,
-        "premiumId": 1
+        "premiumId": 1,
+        "galery" : [
+            {
+                "imagepath":"https://cdn.pixabay.com/photo/2016/02/19/15/46/labrador-retriever-1210559__340.jpg",
+                "imagetitle":"Dog: Miss Sunshine"
+            },
+            {
+                "imagepath":"https://cdn.pixabay.com/photo/2018/03/27/17/25/cat-3266673__340.jpg",
+                "imagetitle":"Kitten: Reese"
+            },
+            {
+                "imagepath":"https://cdn.pixabay.com/photo/2019/07/31/19/21/hare-4375952__340.jpg",
+                "imagetitle":"Bunny: Sofia"
+            },
+            {
+                "imagepath":"https://cdn.pixabay.com/photo/2014/11/30/14/11/cat-551554__340.jpg",
+                "imagetitle":"Kitten: Katie"
+            },
+            {
+                "imagepath":"https://cdn.pixabay.com/photo/2017/09/25/13/12/cocker-spaniel-2785074__480.jpg",
+                "imagetitle":"Puppy: Bruce"
+            },
+            {
+                "imagepath":"https://cdn.pixabay.com/photo/2016/11/21/16/59/animal-1846462__340.jpg",
+                "imagetitle":"Bunny: Jeff"
+            }
+
+        ]
         },
         {
         "id": 2,
         "name": "Limsaa",
         "link" : "https://limsaa.com/",
+        "logo" : "https://limsaa.com/storage/2021/11/limsaa_logo.fw_.png",
+        "image":"https://i.picsum.photos/id/1/5616/3744.jpg?hmac=kKHwwU8s46oNettHKwJ24qOlIAsWN9d2TtsXDoCWWsQ",
         "text":"offers the framework to assess training and learning goals for individuals and organization",
         "about": "Learning Management system Aggregator (Limssa) is a platform for online education, facilitating teaching and learning for schools, staff assessment, gap analysis, training, and management meetings. It is a customizable platform that offers rich features, including; online tests & exams, performance reporting, course registration, blended learning, etc.",
         "featuresId" : 2,
         "freeId" : 2,
         "enterpriseId" : 2,
-        "premiumId": 2
+        "premiumId": 2,
+        "galery" : [
+            {
+                "imagepath":"https://cdn.pixabay.com/photo/2016/02/19/15/46/labrador-retriever-1210559__340.jpg",
+                "imagetitle":"Dog: Miss Sunshine"
+            },
+            {
+                "imagepath":"https://cdn.pixabay.com/photo/2018/03/27/17/25/cat-3266673__340.jpg",
+                "imagetitle":"Kitten: Reese"
+            },
+            {
+                "imagepath":"https://cdn.pixabay.com/photo/2019/07/31/19/21/hare-4375952__340.jpg",
+                "imagetitle":"Bunny: Sofia"
+            },
+            {
+                "imagepath":"https://cdn.pixabay.com/photo/2014/11/30/14/11/cat-551554__340.jpg",
+                "imagetitle":"Kitten: Katie"
+            },
+            {
+                "imagepath":"https://cdn.pixabay.com/photo/2017/09/25/13/12/cocker-spaniel-2785074__480.jpg",
+                "imagetitle":"Puppy: Bruce"
+            },
+            {
+                "imagepath":"https://cdn.pixabay.com/photo/2016/11/21/16/59/animal-1846462__340.jpg",
+                "imagetitle":"Bunny: Jeff"
+            }
+
+        ]
         },   
         {
         "id": 3,
         "name": "NES",
         "link" : "https://www.nes.org.ng/",
+        "logo" : "https://www.nes.org.ng/storage/2020/03/nes_website_logo.fw_-1.png",
+        "image":"https://www.nes.org.ng/storage/2021/09/Lagos-1.jpg",
         "text":"Protection, preservation, conservation and the promotion in theory and practice the principles of environmental practice.",
         "about": "The Nigerian Environmental Society (NES) is a professional, non-profit, non-governmental body which is committed to advocacy and actions towards environmental protection, sustainable environmental development and promotion of environmental professionalism within Nigeria and in the global arena. It is recognized as the premier environmental society and watchdog of the environment in Nigeria. The society was first inaugurated on the 17th October 1985 in Lagos and has remained the largest environmental NGO in Nigeria and has grown to twenty four branches officially launched in Nigeria. The society plays an active role in local and international environmental programs",
         
         "featuresId" : 3,
         "freeId" : 3,
         "enterpriseId" : 3,
-        "premiumId": 3    
+        "premiumId": 3,
+        "galery" : [
+            {
+                "imagepath":"https://cdn.pixabay.com/photo/2016/02/19/15/46/labrador-retriever-1210559__340.jpg",
+                "imagetitle":"Dog: Miss Sunshine"
+            },
+            {
+                "imagepath":"https://cdn.pixabay.com/photo/2018/03/27/17/25/cat-3266673__340.jpg",
+                "imagetitle":"Kitten: Reese"
+            },
+            {
+                "imagepath":"https://cdn.pixabay.com/photo/2019/07/31/19/21/hare-4375952__340.jpg",
+                "imagetitle":"Bunny: Sofia"
+            },
+            {
+                "imagepath":"https://cdn.pixabay.com/photo/2014/11/30/14/11/cat-551554__340.jpg",
+                "imagetitle":"Kitten: Katie"
+            },
+            {
+                "imagepath":"https://cdn.pixabay.com/photo/2017/09/25/13/12/cocker-spaniel-2785074__480.jpg",
+                "imagetitle":"Puppy: Bruce"
+            },
+            {
+                "imagepath":"https://cdn.pixabay.com/photo/2016/11/21/16/59/animal-1846462__340.jpg",
+                "imagetitle":"Bunny: Jeff"
+            }
+
+        ]    
         }
     ],
     "features":[
